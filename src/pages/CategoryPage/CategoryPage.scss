@@ -1,0 +1,8 @@
+@use "../../App.scss" as *;
+.cat-description {
+  background-color: rgba(0, 0, 0, 0.02);
+  border: 1px solid $clr-orange;
+  p {
+    margin-top: 12px;
+  }
+}

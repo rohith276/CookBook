@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "8166",
+      "username": "exampleUser",
+      "password": "password",
+      "recipes": [],
+      "favorites": []
+    },
+    {
+      "id": "6d6c",
+      "username": "qwer",
+      "password": "123"
+    },
+    {
+      "id": "1587",
+      "username": "Rohith",
+      "password": "password"
+    }
+  ]
+}
